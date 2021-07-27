@@ -1,6 +1,6 @@
 #before using you have to convert a hex string to a byte array, 
 #this function then takes in that byte array as a string 
-#and decrypts using modular multiplicitave inverse
+#and decrypts using the modular multiplicitave inverse
 
 class MapValue:
 
